@@ -3,8 +3,8 @@
 namespace Konnco\FilamentHelper\Tests;
 
 use Illuminate\Database\Eloquent\Factories\Factory;
-use Orchestra\Testbench\TestCase as Orchestra;
 use Konnco\FilamentHelper\FilamentHelperServiceProvider;
+use Orchestra\Testbench\TestCase as Orchestra;
 
 class TestCase extends Orchestra
 {

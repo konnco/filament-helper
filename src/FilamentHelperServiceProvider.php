@@ -5,9 +5,9 @@ namespace Konnco\FilamentHelper;
 use Filament\Tables\Columns\TextColumn;
 use Filament\Tables\Filters\BaseFilter;
 use Illuminate\Support\Str;
+use Konnco\FilamentHelper\Commands\FilamentHelperCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Konnco\FilamentHelper\Commands\FilamentHelperCommand;
 
 class FilamentHelperServiceProvider extends PackageServiceProvider
 {
