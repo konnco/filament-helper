@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Konnco\FilamentHelper\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class FilamentHelperCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'filament-helper';
 
     public $description = 'My command';
 
