@@ -2,6 +2,14 @@
 
 All notable changes to `filament-helper` will be documented in this file.
 
+## 0.0.2 - 2023-06-07
+
+### What's Changed
+
+- fix namespace and add necessary package by @fadilAndrian in https://github.com/konnco/filament-helper/pull/3
+
+**Full Changelog**: https://github.com/konnco/filament-helper/compare/0.0.1...0.0.2
+
 ## 0.0.1 - 2023-06-05
 
 ### What's Changed
