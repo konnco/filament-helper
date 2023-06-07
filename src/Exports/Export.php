@@ -1,6 +1,6 @@
 <?php
 
-namespace CraftCodex\Filament\Exports;
+namespace Konnco\FilamentHelper\Exports;
 
 use AnourValar\EloquentSerialize\Facades\EloquentSerializeFacade as EloquentSerialize;
 use Illuminate\Contracts\Queue\ShouldQueue;
